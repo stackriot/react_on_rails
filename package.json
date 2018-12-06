@@ -1,6 +1,6 @@
 {
   "name": "react-on-rails",
-  "version": "11.1.8",
+  "version": "11.1.9",
   "description": "react-on-rails JavaScript for react_on_rails Ruby gem",
   "main": "node_package/lib/ReactOnRails.js",
   "directories": {
@@ -33,7 +33,7 @@
     "react-dom": "^16.5.2",
     "react-transform-hmr": "^1.0.4",
     "redux": "^4.0.1",
-    "release-it": "^7.6.2",
+    "release-it": "^7.6.3",
     "tap-spec": "^5.0.0",
     "tape": "^4.7.0",
     "webpack": "^3.4.1",
